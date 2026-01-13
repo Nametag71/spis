@@ -8,6 +8,8 @@ will be availible for windows and maybe mac but i don't have a mac to test with.
 
 made in RPG maker MV with some custom plugins (plugins will be in releases if you want one or more of them for some reason)
 
+notice: this project is worked on by me and some real-life friends who can't control themselves occasionally so there's some not so friendly words and jokes spread about the game
+
 UPDATE: yeah no the mac version won't run on apple silicon. i could update the nw.js version to one that supports it but i don't know anyone who has an apple silicon mac so idgaf.
 
 UPDATE TOO: BROWSER VERSION OUT NOW!!!!!!!!!!!!!!!
