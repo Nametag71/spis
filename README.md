@@ -8,7 +8,7 @@ will be availible for windows and maybe mac but i don't have a mac to test with.
 
 made in RPG maker MV with some custom plugins (plugins will be in releases if you want one or more of them for some reason)
 
-UPDATE: yeah no the mac version won't run on apple silicon. i could update the nw.js version to one that supports it but i know NOBODY who has an apple silicon mac so idgaf.
+UPDATE: yeah no the mac version won't run on apple silicon. i could update the nw.js version to one that supports it but i don't know anyone who has an apple silicon mac so idgaf.
 
 UPDATE TOO: BROWSER VERSION OUT NOW!!!!!!!!!!!!!!!
 the actual download in this repo won't be updated as often as the web version. [you can play the web version here.](https://spis.rainsounds2.com/) (if it's not fullscreen by default press f3).
